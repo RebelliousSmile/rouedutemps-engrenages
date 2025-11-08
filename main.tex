@@ -1,0 +1,177 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% La Roue du Temps : Engrenages
+% Guide de Jeu pour l'Univers de Robert Jordan
+% Version: 2.0
+% Date: 2025-11-08
+%
+% Système Engrenages adapté par fx.rebellious.smile@gmail.com
+% ATTENTION: Univers sous copyright (usage personnel uniquement)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[11pt,a4paper,twoside]{book}
+
+%----------------------------------------------------------------------------------------
+%	CONFIGURATION GÉOMÉTRIE
+%----------------------------------------------------------------------------------------
+
+\usepackage[top=2.5cm,bottom=2.5cm,left=3cm,right=3cm]{geometry}
+
+%----------------------------------------------------------------------------------------
+%	PACKAGE LA ROUE DU TEMPS
+%----------------------------------------------------------------------------------------
+
+% Charge automatiquement TOUT le style WoT
+\usepackage{../../.claude/templates/roue-du-temps/roue-du-temps}
+
+% Packages additionnels
+\usepackage{hyperref}  % Pour \url{}
+\usepackage{newunicodechar}  % Pour caractères Unicode
+
+% Définir caractère ≥
+\newunicodechar{≥}{\geq}
+
+% Environnements manquants (alias des environnements template)
+\newenvironment{separateur}{\vspace{0.5cm}\noindent\rule{\textwidth}{0.4pt}\vspace{0.5cm}}{}
+\newenvironment{exemplebox}{\begin{quotebox}}{\end{quotebox}}
+\newenvironment{tenebresbox}{\begin{quotebox}}{\end{quotebox}}
+\newenvironment{reglebox}{\begin{quotebox}}{\end{quotebox}}
+
+% Personnalisation de l'en-tête
+\fancyhead[RE,LO]{\small\scshape La Roue du Temps --- Engrenages}
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	PAGE DE TITRE
+%----------------------------------------------------------------------------------------
+
+\begin{center}
+  \vspace*{3cm}
+  {\fontsize{52}{65}\selectfont\bfseries La Roue du Temps}\\[2cm]
+  {\Huge\itshape Engrenages}\\[1.5cm]
+  {\LARGE Guide de Jeu pour l'Univers de Robert Jordan}\\[4cm]
+  \vfill
+  {\large Adaptation du système Engrenages d'Alexandre Clavel}\\[0.5cm]
+  {\normalsize Document non-officiel, ouvert aux contributions}\\[0.5cm]
+  {\small Contact: fx.rebellious.smile@gmail.com}\\[0.5cm]
+  {\small Version 2.0 -- 2025-11-08}
+\end{center}
+
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	COPYRIGHT & LICENCE
+%----------------------------------------------------------------------------------------
+
+\thispagestyle{empty}
+\vspace*{5cm}
+
+\begin{center}
+  \textbf{Note de Copyright}
+\end{center}
+
+\vspace{1cm}
+
+Ce document est une adaptation non-officielle pour usage personnel uniquement.
+
+\textbf{La Roue du Temps} est l'œuvre de Robert Jordan (et Brandon Sanderson pour les derniers volumes), publiée par Tor Books et traduite en français par Bragelonne. Tous droits réservés aux ayants droit.
+
+\textbf{Engrenages} est un système de jeu de rôle créé par Alexandre Clavel. Ce document en propose une adaptation pour l'univers de La Roue du Temps.
+
+Ce guide est ouvert à toutes les bonnes volontés souhaitant contribuer. Merci de respecter les conventions établies et de contacter l'auteur pour toute participation.
+
+\vspace{2cm}
+
+\begin{center}
+  \textit{``La Roue du Temps tourne, et les Âges viennent et passent,\\
+  laissant des souvenirs qui deviennent des légendes.''}
+\end{center}
+
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	TABLE DES MATIÈRES
+%----------------------------------------------------------------------------------------
+
+\tableofcontents
+
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	PREMIÈRE PARTIE : DANS LES FILS DU DESSIN
+%----------------------------------------------------------------------------------------
+
+\part{Dans les Fils du Dessin}
+
+% CHAPITRE 1 : Préface - La Roue Tourne
+\input{chapitres/01_preface_roue_tourne}
+
+% CHAPITRE 2 : Guide Visuel du Monde
+\input{chapitres/02_guide_visuel_monde}
+
+%----------------------------------------------------------------------------------------
+%	DEUXIÈME PARTIE : LES RÈGLES DU JEU
+%----------------------------------------------------------------------------------------
+
+\part{Les Règles du Jeu}
+
+% CHAPITRE 3 : Création de Personnage
+\input{chapitres/03_creation_personnage}
+
+% CHAPITRE 4 : Le Système des Engrenages Adapté
+\input{chapitres/04_systeme_engrenages_adapte}
+
+% CHAPITRE 5 : Le Pouvoir Unique
+\input{chapitres/05_pouvoir_unique}
+
+% CHAPITRE 6 : Combat et Conflits
+\input{chapitres/06_combat_conflits}
+
+%----------------------------------------------------------------------------------------
+%	TROISIÈME PARTIE : MAÎTRISER LA ROUE
+%----------------------------------------------------------------------------------------
+
+\part{Maîtriser la Roue}
+
+% CHAPITRE 7 : Guide du Maître de Jeu
+\input{chapitres/07_guide_maitre_jeu}
+
+% CHAPITRE 8 : Créer des Aventures Épiques
+\input{chapitres/08_aventures_epiques}
+
+%----------------------------------------------------------------------------------------
+%	QUATRIÈME PARTIE : CRÉATURES ET MYSTÈRES
+%----------------------------------------------------------------------------------------
+
+\part{Créatures et Mystères}
+
+% CHAPITRE 9 : Bestiaire
+\input{chapitres/09_bestiaire}
+
+% CHAPITRE 10 : Dimensions Parallèles
+\input{chapitres/10_dimensions_paralleles}
+
+%----------------------------------------------------------------------------------------
+%	CINQUIÈME PARTIE : ANNEXES
+%----------------------------------------------------------------------------------------
+
+\part{Annexes}
+
+% CHAPITRE 11 : Glossaire et Références
+\input{chapitres/11_glossaire_references}
+
+% CHAPITRE 12 : Personnages Prêts à Jouer
+\input{chapitres/12_personnages_prets}
+
+% CHAPITRE 13 : Tables de Référence
+\input{chapitres/13_tables_reference}
+
+%----------------------------------------------------------------------------------------
+%	FIN DU DOCUMENT
+%----------------------------------------------------------------------------------------
+
+\end{document}

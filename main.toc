@@ -1,0 +1,381 @@
+\babel@toc {french}{}\relax 
+\contentsline {part}{I\hspace {1em}Dans les Fils du Dessin}{7}{part.1}%
+\contentsline {section}{\numberline {0.1}Préface -- La Roue Tourne}{9}{section.0.1}%
+\contentsline {subsection}{\numberline {0.1.1}Que joue-t-on ?}{9}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {0.1.2}Quand joue-t-on ?}{10}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {0.1.3}Introduction : Visualiser les Terres Connues}{11}{subsection.0.1.3}%
+\contentsline {subsection}{\numberline {0.1.4}Les Terres de l'Ouest}{12}{subsection.0.1.4}%
+\contentsline {subsubsection}{Andor - Le Royaume des Jardins}{12}{subsubsection*.2}%
+\contentsline {subsubsection}{Cairhien - L'Échiquier Politique}{13}{subsubsection*.3}%
+\contentsline {subsubsection}{Le Shienar - Rempart Contre L'Ombre}{14}{subsubsection*.4}%
+\contentsline {subsubsection}{Tear - L'Orgueil des Seigneurs}{14}{subsubsection*.5}%
+\contentsline {subsection}{\numberline {0.1.5}Les Peuples des Terres Connues}{15}{subsection.0.1.5}%
+\contentsline {subsubsection}{Les Aiels - Guerriers du Désert}{15}{subsubsection*.6}%
+\contentsline {subsubsection}{Les Seanchans - L'Empire aux Mille Visages}{16}{subsubsection*.7}%
+\contentsline {subsubsection}{Les Gens de la Mer - Maîtres des Océans}{16}{subsubsection*.8}%
+\contentsline {subsection}{\numberline {0.1.6}Les Lieux de Légende}{16}{subsection.0.1.6}%
+\contentsline {subsubsection}{Tar Valon - L'Île de la Tour Blanche}{16}{subsubsection*.9}%
+\contentsline {subsubsection}{Rhuidean - La Cité Perdue des Aiels}{17}{subsubsection*.10}%
+\contentsline {subsubsection}{Les Terres Dévastées - Cicatrices du Monde}{17}{subsubsection*.11}%
+\contentsline {subsection}{\numberline {0.1.7}Conclusion : Vivre le Monde}{18}{subsection.0.1.7}%
+\contentsline {part}{II\hspace {1em}Les Règles du Jeu}{19}{part.2}%
+\contentsline {subsection}{\numberline {0.1.8}Étapes de Création}{21}{subsection.0.1.8}%
+\contentsline {subsubsection}{Concept de Base}{21}{subsubsection*.12}%
+\contentsline {subsubsection}{Attribution des Points}{21}{subsubsection*.13}%
+\contentsline {subsection}{\numberline {0.1.9}Background et Traits}{21}{subsection.0.1.9}%
+\contentsline {subsection}{\numberline {0.1.10}Origines Culturelles}{21}{subsection.0.1.10}%
+\contentsline {subsubsection}{Andor}{21}{subsubsection*.14}%
+\contentsline {subsubsection}{Cairhien}{22}{subsubsection*.15}%
+\contentsline {subsubsection}{Tear}{22}{subsubsection*.16}%
+\contentsline {subsubsection}{Saldaea}{22}{subsubsection*.17}%
+\contentsline {paragraph}{\textsc {Illian}}{23}{paragraph*.18}%
+\contentsline {paragraph}{\textsc {Arad Doman}}{23}{paragraph*.19}%
+\contentsline {subsubsection}{Peuples Spéciaux}{23}{subsubsection*.20}%
+\contentsline {paragraph}{\textsc {Aiels}}{23}{paragraph*.21}%
+\contentsline {paragraph}{\textsc {Ogiers}}{23}{paragraph*.22}%
+\contentsline {subsection}{\numberline {0.1.11}Langues}{23}{subsection.0.1.11}%
+\contentsline {subsection}{\numberline {0.1.12}\textit {Ta'veren} : Système des Attaches (Règle Optionnelle)}{24}{subsection.0.1.12}%
+\contentsline {subsubsection}{Création d'un \textit {Ta'veren}}{24}{subsubsection*.23}%
+\contentsline {subsubsection}{Mécanique des Attaches}{24}{subsubsection*.24}%
+\contentsline {subsection}{\numberline {0.1.13}Archétypes de Personnages}{24}{subsection.0.1.13}%
+\contentsline {subsubsection}{Canaleurs du Pouvoir Unique}{24}{subsubsection*.25}%
+\contentsline {paragraph}{\textsc {Aes Sedai}}{24}{paragraph*.26}%
+\contentsline {paragraph}{\textsc {Asha'man}}{25}{paragraph*.27}%
+\contentsline {paragraph}{\textsc {Sagesses et Guérisseuses}}{25}{paragraph*.28}%
+\contentsline {subsubsection}{Guerriers et Soldats}{25}{subsubsection*.29}%
+\contentsline {paragraph}{\textsc {Garde de la Reine (Andor)}}{25}{paragraph*.30}%
+\contentsline {paragraph}{\textsc {Enfant de la Lumière}}{26}{paragraph*.31}%
+\contentsline {paragraph}{\textsc {Compagnon d'Illian}}{26}{paragraph*.32}%
+\contentsline {subsubsection}{Professions Civiles}{26}{subsubsection*.33}%
+\contentsline {paragraph}{\textsc {Ménestrel}}{26}{paragraph*.34}%
+\contentsline {paragraph}{\textsc {Marchand}}{26}{paragraph*.35}%
+\contentsline {subsection}{\numberline {0.1.14}Mécaniques de Canalisation}{26}{subsection.0.1.14}%
+\contentsline {subsubsection}{Acquisition de la Capacité}{26}{subsubsection*.36}%
+\contentsline {subsubsection}{Force dans le Pouvoir}{27}{subsubsection*.37}%
+\contentsline {subsubsection}{Spécialisations par Pouvoir}{27}{subsubsection*.38}%
+\contentsline {paragraph}{\textsc {Air}}{27}{paragraph*.39}%
+\contentsline {paragraph}{\textsc {Eau}}{27}{paragraph*.40}%
+\contentsline {paragraph}{\textsc {Terre}}{27}{paragraph*.41}%
+\contentsline {paragraph}{\textsc {Feu}}{27}{paragraph*.42}%
+\contentsline {paragraph}{\textsc {Esprit}}{27}{paragraph*.43}%
+\contentsline {subsection}{\numberline {0.1.15}Système d'Expérience et Progression}{28}{subsection.0.1.15}%
+\contentsline {subsubsection}{Gains d'Expérience}{28}{subsubsection*.44}%
+\contentsline {subsubsection}{Coûts de Progression}{28}{subsubsection*.45}%
+\contentsline {subsubsection}{Spécialisations Avancées}{28}{subsubsection*.46}%
+\contentsline {subsection}{\numberline {0.1.16}Tables de Création Rapide}{28}{subsection.0.1.16}%
+\contentsline {subsubsection}{Attribution Standard}{28}{subsubsection*.47}%
+\contentsline {subsubsection}{Archétypes Prêts à Jouer}{29}{subsubsection*.48}%
+\contentsline {paragraph}{\textsc {Novice Aes Sedai}}{29}{paragraph*.49}%
+\contentsline {paragraph}{\textsc {Garde Frontalière}}{29}{paragraph*.50}%
+\contentsline {paragraph}{\textsc {Marchand Itinérant}}{29}{paragraph*.51}%
+\contentsline {section}{\numberline {0.2}Adapter les Règles}{30}{section.0.2}%
+\contentsline {subsection}{\numberline {0.2.1}Système de Dés Typés : Lumière et Ténèbres}{30}{subsection.0.2.1}%
+\contentsline {subsubsection}{Effets du Typage}{30}{subsubsection*.52}%
+\contentsline {subsection}{\numberline {0.2.2}Compétences Modifiées}{30}{subsection.0.2.2}%
+\contentsline {subsubsection}{Nouvelles Compétences Physiques}{30}{subsubsection*.53}%
+\contentsline {paragraph}{Combat}{30}{paragraph*.54}%
+\contentsline {paragraph}{Animaux}{31}{paragraph*.55}%
+\contentsline {paragraph}{Mer}{31}{paragraph*.56}%
+\contentsline {paragraph}{Dépassement}{31}{paragraph*.57}%
+\contentsline {subsubsection}{Nouvelles Compétences Mentales}{32}{subsubsection*.58}%
+\contentsline {paragraph}{Érudition}{32}{paragraph*.59}%
+\contentsline {paragraph}{Folklore}{32}{paragraph*.60}%
+\contentsline {paragraph}{Thaumatologie}{32}{paragraph*.61}%
+\contentsline {subsubsection}{Modificateurs Sociaux Ajoutés}{32}{subsubsection*.62}%
+\contentsline {subsubsection}{Compétences Occultes : Les Cinq Pouvoirs}{32}{subsubsection*.63}%
+\contentsline {paragraph}{Air}{32}{paragraph*.64}%
+\contentsline {paragraph}{Eau}{33}{paragraph*.65}%
+\contentsline {paragraph}{Terre}{33}{paragraph*.66}%
+\contentsline {paragraph}{Feu}{33}{paragraph*.67}%
+\contentsline {paragraph}{Esprit}{33}{paragraph*.68}%
+\contentsline {subsection}{\numberline {0.2.3}Système de Difficulté}{33}{subsection.0.2.3}%
+\contentsline {subsubsection}{Modificateurs Spécifiques}{34}{subsubsection*.69}%
+\contentsline {subsection}{\numberline {0.2.4}Interprétation des Marges}{34}{subsection.0.2.4}%
+\contentsline {subsection}{\numberline {0.2.5}Système de Destinée et de Stress}{34}{subsection.0.2.5}%
+\contentsline {subsubsection}{Acquisition des Points}{34}{subsubsection*.70}%
+\contentsline {subsubsection}{Utilisation des Points de Destinée}{35}{subsubsection*.71}%
+\contentsline {subsubsection}{Gestion du Stress}{35}{subsubsection*.72}%
+\contentsline {subsubsection}{Effets du Stress}{35}{subsubsection*.73}%
+\contentsline {subsubsection}{Élimination du Stress}{35}{subsubsection*.74}%
+\contentsline {subsection}{\numberline {0.2.6}Règles de Combat Adaptées}{35}{subsection.0.2.6}%
+\contentsline {subsubsection}{Calcul de l'Initiative}{35}{subsubsection*.75}%
+\contentsline {subsection}{\numberline {0.2.7}Règles Spécifiques au Pouvoir Unique}{36}{subsection.0.2.7}%
+\contentsline {subsubsection}{Tests de Canalisation}{36}{subsubsection*.76}%
+\contentsline {subsubsection}{Modificateurs de Tissage}{36}{subsubsection*.77}%
+\contentsline {subsubsection}{Effets des Dés Typés sur la Magie}{36}{subsubsection*.78}%
+\contentsline {paragraph}{Usage du \textit {Saidin} (Hommes)}{36}{paragraph*.79}%
+\contentsline {paragraph}{Usage du \textit {Saidar} (Femmes)}{36}{paragraph*.80}%
+\contentsline {subsubsection}{Collaboration Magique}{36}{subsubsection*.81}%
+\contentsline {section}{\numberline {0.3}MAGIE --- LE POUVOIR DE L'UNIQUE}{37}{section.0.3}%
+\contentsline {subsection}{\numberline {0.3.1}Utiliser les compétences élémentaires}{37}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {0.3.2}Le ciblage dans La Roue du Temps}{38}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {0.3.3}Nouveaux modificateurs}{38}{subsection.0.3.3}%
+\contentsline {subsubsection}{Nombre d'éléments}{38}{subsubsection*.82}%
+\contentsline {subsubsection}{Connaissance du tissage}{38}{subsubsection*.83}%
+\contentsline {subsubsection}{Collaborer sur un tissage}{39}{subsubsection*.84}%
+\contentsline {subsection}{\numberline {0.3.4}Lumière et Ténèbres}{39}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {0.3.5}Contrecoups}{39}{subsection.0.3.5}%
+\contentsline {subsection}{\numberline {0.3.6}Les utilisateurs du Pouvoir de l'Unique}{42}{subsection.0.3.6}%
+\contentsline {subsubsection}{La Tour Blanche}{42}{subsubsection*.85}%
+\contentsline {subsubsection}{Autres traditions de canalisateurs}{43}{subsubsection*.86}%
+\contentsline {subsection}{\numberline {0.3.7}Conjuration}{43}{subsection.0.3.7}%
+\contentsline {subsection}{\numberline {0.3.8}Principes du Combat}{44}{subsection.0.3.8}%
+\contentsline {subsubsection}{Initiative et Séquence}{44}{subsubsection*.87}%
+\contentsline {subsubsection}{Actions par Tour}{44}{subsubsection*.88}%
+\contentsline {subsection}{\numberline {0.3.9}Résolution des Attaques}{44}{subsection.0.3.9}%
+\contentsline {subsubsection}{Attaque de Base}{44}{subsubsection*.89}%
+\contentsline {subsubsection}{Marges et Effets Spéciaux}{45}{subsubsection*.90}%
+\contentsline {subsection}{\numberline {0.3.10}Armes et Équipements}{45}{subsection.0.3.10}%
+\contentsline {subsubsection}{Épées - L'Art Noble}{45}{subsubsection*.91}%
+\contentsline {subsubsection}{Lances - Arme du Peuple}{45}{subsubsection*.92}%
+\contentsline {subsubsection}{Arcs - Maîtres de la Distance}{46}{subsubsection*.93}%
+\contentsline {subsection}{\numberline {0.3.11}Techniques d'Épée - L'Art Martial}{46}{subsection.0.3.11}%
+\contentsline {subsubsection}{Techniques de Base}{46}{subsubsection*.94}%
+\contentsline {subsubsection}{Acquisition et Usage}{46}{subsubsection*.95}%
+\contentsline {subsubsection}{Niveaux de Maîtrise}{47}{subsubsection*.96}%
+\contentsline {subsection}{\numberline {0.3.12}Combat et Pouvoir Unique}{47}{subsection.0.3.12}%
+\contentsline {subsubsection}{Tissages de Combat Courants}{47}{subsubsection*.97}%
+\contentsline {subsubsection}{Vulnérabilités des Canalisateurs}{47}{subsubsection*.98}%
+\contentsline {subsubsection}{Tactiques Anti-Magie}{48}{subsubsection*.99}%
+\contentsline {subsection}{\numberline {0.3.13}Tactiques Militaires}{48}{subsection.0.3.13}%
+\contentsline {subsubsection}{Formations Nationales}{48}{subsubsection*.100}%
+\contentsline {subsubsection}{Commandement et Moral}{49}{subsubsection*.101}%
+\contentsline {subsubsection}{Guerre de Siège}{49}{subsubsection*.102}%
+\contentsline {subsection}{\numberline {0.3.14}Adversaires de l'Ombre}{49}{subsection.0.3.14}%
+\contentsline {subsubsection}{Trollocs - Infanterie Corrompue}{50}{subsubsection*.103}%
+\contentsline {subsubsection}{Myrddraal - Officiers des Ténèbres}{50}{subsubsection*.104}%
+\contentsline {subsubsection}{Draghkar - Prédateurs Aériens}{50}{subsubsection*.105}%
+\contentsline {subsubsection}{Tactiques de Groupe Contre l'Ombre}{51}{subsubsection*.106}%
+\contentsline {subsection}{\numberline {0.3.15}Blessures et Guérison}{51}{subsection.0.3.15}%
+\contentsline {subsubsection}{Système de Blessures}{51}{subsubsection*.107}%
+\contentsline {subsubsection}{Guérison Naturelle}{51}{subsubsection*.108}%
+\contentsline {subsubsection}{Guérison par le Pouvoir}{52}{subsubsection*.109}%
+\contentsline {subsubsection}{Blessures Spéciales}{52}{subsubsection*.110}%
+\contentsline {part}{III\hspace {1em}Maîtriser la Roue}{53}{part.3}%
+\contentsline {subsection}{\numberline {0.3.16}Introduction : Maîtriser dans l'Univers de Jordan}{55}{subsection.0.3.16}%
+\contentsline {subsubsection}{L'Art du Mystère Jordanien}{55}{subsubsection*.111}%
+\contentsline {subsubsection}{Gérer les Connaissances des Joueurs}{55}{subsubsection*.112}%
+\contentsline {subsubsection}{Techniques de Narration Immersive}{55}{subsubsection*.113}%
+\contentsline {subsection}{\numberline {0.3.17}Les Ta'veren et le Dessin -- Système des Attaches}{56}{subsection.0.3.17}%
+\contentsline {subsubsection}{Les Ta'veren comme Attaches au Dessin}{56}{subsubsection*.114}%
+\contentsline {subsubsection}{Création d'un Ta'veren (Règles Optionnelles)}{56}{subsubsection*.115}%
+\contentsline {subsubsection}{Manifestations du Dessin}{56}{subsubsection*.116}%
+\contentsline {subsubsection}{Progression et Conséquences}{57}{subsubsection*.117}%
+\contentsline {subsubsection}{Dilemmes et Moments Critiques}{57}{subsubsection*.118}%
+\contentsline {subsubsection}{Alternatives pour Groupes Non-Ta'veren}{58}{subsubsection*.119}%
+\contentsline {subsection}{\numberline {0.3.18}Créer l'Atmosphère Jordanienne}{58}{subsection.0.3.18}%
+\contentsline {subsubsection}{L'Ombre Grandissante}{58}{subsubsection*.120}%
+\contentsline {subsubsection}{Maîtriser la Politique et les Intrigues}{59}{subsubsection*.121}%
+\contentsline {subsubsection}{Respecter les Cultures Distinctes}{60}{subsubsection*.122}%
+\contentsline {subsection}{\numberline {0.3.19}Gérer le Pouvoir Unique}{61}{subsection.0.3.19}%
+\contentsline {subsubsection}{Équilibrer la Puissance Magique}{61}{subsubsection*.123}%
+\contentsline {subsubsection}{Mystères et Merveilles de l'Âge des Légendes}{62}{subsubsection*.124}%
+\contentsline {subsubsection}{Créer des Défis Appropriés pour les Canalisateurs}{62}{subsubsection*.125}%
+\contentsline {subsection}{\numberline {0.3.20}Conseils Pratiques de Maîtrise}{63}{subsection.0.3.20}%
+\contentsline {subsubsection}{Préparation de Session}{63}{subsubsection*.126}%
+\contentsline {subsubsection}{Gestion du Groupe et des Personnages}{63}{subsubsection*.127}%
+\contentsline {subsubsection}{Rythme et Tension Narrative}{64}{subsubsection*.128}%
+\contentsline {subsubsection}{Adapter aux Connaissances des Joueurs}{64}{subsubsection*.129}%
+\contentsline {subsubsection}{Erreurs Communes à Éviter}{65}{subsubsection*.130}%
+\contentsline {subsection}{\numberline {0.3.21}Créer des Antagonistes Mémorables}{65}{subsection.0.3.21}%
+\contentsline {subsubsection}{Hiérarchie de l'Ombre}{65}{subsubsection*.131}%
+\contentsline {subsubsection}{Antagonistes Humains Complexes}{66}{subsubsection*.132}%
+\contentsline {subsubsection}{Créer des Conflits Moralement Ambigus}{66}{subsubsection*.133}%
+\contentsline {subsection}{\numberline {0.3.22}Intégrer l'Histoire Mondiale}{67}{subsection.0.3.22}%
+\contentsline {subsubsection}{Événements Parallèles et Chronologie}{67}{subsubsection*.134}%
+\contentsline {subsubsection}{Utiliser les Figures Canoniques}{67}{subsubsection*.135}%
+\contentsline {subsubsection}{Conséquences à Long Terme}{68}{subsubsection*.136}%
+\contentsline {subsubsection}{Choisir son Époque de Jeu}{68}{subsubsection*.137}%
+\contentsline {subsection}{\numberline {0.3.23}Conclusion : L'Art de Maîtriser La Roue}{70}{subsection.0.3.23}%
+\contentsline {section}{\numberline {0.4}Créer des Aventures Épiques}{70}{section.0.4}%
+\contentsline {subsection}{\numberline {0.4.1}L'Art de l'Intrigue dans La Roue}{71}{subsection.0.4.1}%
+\contentsline {subsubsection}{La Structure en Trois Actes}{71}{subsubsection*.138}%
+\contentsline {subsubsection}{Les Moteurs Narratifs Classiques}{71}{subsubsection*.139}%
+\contentsline {subsubsection}{La Révélation Progressive}{71}{subsubsection*.140}%
+\contentsline {subsubsection}{Intégration des Forces Cosmiques}{72}{subsubsection*.141}%
+\contentsline {subsubsection}{Types d'Aventures Caractéristiques}{72}{subsubsection*.142}%
+\contentsline {subsubsection}{La Gestion du Temps et de l'Espace}{72}{subsubsection*.143}%
+\contentsline {subsubsection}{Équilibrer Mystère et Révélation}{73}{subsubsection*.144}%
+\contentsline {subsubsection}{Créer des Antagonistes Mémorables}{73}{subsubsection*.145}%
+\contentsline {subsubsection}{L'Art du Climax}{73}{subsubsection*.146}%
+\contentsline {part}{IV\hspace {1em}Créatures et Mystères}{75}{part.4}%
+\contentsline {chapter}{\numberline {1}Bestiaire}{77}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Règles des Créatures et Personnages}{77}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Format des Profils}{77}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Capacités Spéciales}{77}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Faiblesses}{78}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}Les Serviteurs des Ténèbres}{78}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Créatures des Fléaux}{78}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Constructs de l'Âge des Légendes}{79}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Entités Interdimensionnelles}{80}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Créatures Corrompues}{80}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Survivants de l'Âge des Légendes}{80}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}Conseils d'Utilisation pour le MJ}{81}{subsection.1.2.6}%
+\contentsline {subsection}{\numberline {1.2.7}Adaptation des Caractéristiques}{81}{subsection.1.2.7}%
+\contentsline {section}{\numberline {1.3}Galerie des Personnages Non-Joueurs}{81}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Le Pouvoir - Ceux qui Gouvernent}{81}{subsection.1.3.1}%
+\contentsline {subsubsection}{Dame Noble Andorienne}{82}{subsubsection*.147}%
+\contentsline {subsubsection}{Capitaine de la Garde Royale}{82}{subsubsection*.148}%
+\contentsline {subsubsection}{Aes Sedai de l'Ajah Grise}{82}{subsubsection*.149}%
+\contentsline {subsubsection}{Seigneur-Commandant des Enfants}{82}{subsubsection*.150}%
+\contentsline {subsection}{\numberline {1.3.2}Le Peuple - La Voix des Simples Gens}{83}{subsection.1.3.2}%
+\contentsline {subsubsection}{Aubergiste des Terres de l'Ouest}{83}{subsubsection*.151}%
+\contentsline {subsubsection}{Forgeron de Village}{83}{subsubsection*.152}%
+\contentsline {subsubsection}{Sagesse de Village}{83}{subsubsection*.153}%
+\contentsline {subsubsection}{Barde Itinérant}{83}{subsubsection*.154}%
+\contentsline {subsection}{\numberline {1.3.3}Le Commerce - Les Moteurs de l'Économie}{84}{subsection.1.3.3}%
+\contentsline {subsubsection}{Marchand de Caravane}{84}{subsubsection*.155}%
+\contentsline {subsubsection}{Capitaine de Navire Marchand}{84}{subsubsection*.156}%
+\contentsline {subsubsection}{Banquier Cairhienien}{84}{subsubsection*.157}%
+\contentsline {subsubsection}{Contrebandier des Frontières}{85}{subsubsection*.158}%
+\contentsline {subsection}{\numberline {1.3.4}Les Ombres - Servants des Secrets}{85}{subsection.1.3.4}%
+\contentsline {subsubsection}{Espion de la Tour Blanche}{85}{subsubsection*.159}%
+\contentsline {subsubsection}{Ami du Ténébreux Infiltré}{85}{subsubsection*.160}%
+\contentsline {subsubsection}{Assassin Professionnel}{86}{subsubsection*.161}%
+\contentsline {subsubsection}{Chef de Guilde des Voleurs}{86}{subsubsection*.162}%
+\contentsline {subsection}{\numberline {1.3.5}Conseils d'Utilisation}{86}{subsection.1.3.5}%
+\contentsline {section}{\numberline {1.4}Les Réprouvés - Maîtres de l'Ombre}{86}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Lanfear - Fille de la Nuit}{87}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Ishamael - Traqueur des Mensonges}{87}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Rahvin - Maître de la Compulsion}{87}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Sammael - Le Destructeur d'Espoir}{88}{subsection.1.4.4}%
+\contentsline {section}{\numberline {1.5}Héros de la Lumière}{88}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Rand al'Thor - Le Dragon Réincarné}{88}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Moiraine Damodred - Aes Sedai de l'Ajah Bleue}{89}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Lan Mandragoran - Épée de Malkier}{89}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Conseils d'Utilisation pour les Légendes}{90}{subsection.1.5.4}%
+\contentsline {section}{\numberline {1.6}Dimensions Parallèles}{90}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Les Couches de la Réalité}{90}{subsection.1.6.1}%
+\contentsline {subsubsection}{\textit {Tel'aran'rhiod} : Le Monde des Rêves}{90}{subsubsection*.163}%
+\contentsline {paragraph}{Règles d'Accès :}{91}{paragraph*.164}%
+\contentsline {paragraph}{Lois Physiques Modifiées :}{91}{paragraph*.165}%
+\contentsline {paragraph}{Navigation et Déplacement :}{91}{paragraph*.166}%
+\contentsline {paragraph}{Dangers Spécifiques :}{91}{paragraph*.167}%
+\contentsline {subsubsection}{Les Mondes Miroirs}{91}{subsubsection*.168}%
+\contentsline {paragraph}{Types de Miroirs :}{91}{paragraph*.169}%
+\contentsline {paragraph}{Accès par Porte-Pierres :}{92}{paragraph*.170}%
+\contentsline {paragraph}{Navigation Interdimensionnelle :}{92}{paragraph*.171}%
+\contentsline {subsection}{\numberline {1.6.2}Règles de Survie Interdimensionnelle}{92}{subsection.1.6.2}%
+\contentsline {paragraph}{Cohérence Personnelle :}{92}{paragraph*.172}%
+\contentsline {paragraph}{Paradoxes Temporels :}{92}{paragraph*.173}%
+\contentsline {paragraph}{Contamination Dimensionnelle :}{92}{paragraph*.174}%
+\contentsline {subsection}{\numberline {1.6.3}Applications Pratiques pour les Aventures}{93}{subsection.1.6.3}%
+\contentsline {paragraph}{Exploration de Possibilités :}{93}{paragraph*.175}%
+\contentsline {paragraph}{Récupération de Savoirs Perdus :}{93}{paragraph*.176}%
+\contentsline {paragraph}{Confrontation avec les Ténèbres :}{93}{paragraph*.177}%
+\contentsline {subsection}{\numberline {1.6.4}Précautions pour le Maître de Jeu}{93}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}Gérer les Conséquences}{93}{subsection.1.6.5}%
+\contentsline {part}{V\hspace {1em}Annexes}{95}{part.5}%
+\contentsline {section}{\numberline {1.7}Glossaire et Références}{97}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Introduction au Glossaire}{97}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}A}{97}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}B}{98}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}C}{98}{subsection.1.7.4}%
+\contentsline {subsection}{\numberline {1.7.5}D}{98}{subsection.1.7.5}%
+\contentsline {subsection}{\numberline {1.7.6}E}{98}{subsection.1.7.6}%
+\contentsline {subsection}{\numberline {1.7.7}F}{99}{subsection.1.7.7}%
+\contentsline {subsection}{\numberline {1.7.8}G}{99}{subsection.1.7.8}%
+\contentsline {subsection}{\numberline {1.7.9}L}{99}{subsection.1.7.9}%
+\contentsline {subsection}{\numberline {1.7.10}M}{99}{subsection.1.7.10}%
+\contentsline {subsection}{\numberline {1.7.11}P}{100}{subsection.1.7.11}%
+\contentsline {subsection}{\numberline {1.7.12}Q}{100}{subsection.1.7.12}%
+\contentsline {subsection}{\numberline {1.7.13}R}{100}{subsection.1.7.13}%
+\contentsline {subsection}{\numberline {1.7.14}S}{100}{subsection.1.7.14}%
+\contentsline {subsection}{\numberline {1.7.15}T}{101}{subsection.1.7.15}%
+\contentsline {subsection}{\numberline {1.7.16}V}{102}{subsection.1.7.16}%
+\contentsline {subsection}{\numberline {1.7.17}W}{102}{subsection.1.7.17}%
+\contentsline {section}{\numberline {1.8}Personnages Prêts à Jouer}{102}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}Introduction : Un Groupe Forgé par l'Exil}{102}{subsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.8.2}Fael Barsere --- Ex-Enfant de la Lumière}{103}{subsection.1.8.2}%
+\contentsline {subsubsection}{Histoire Personnelle}{103}{subsubsection*.178}%
+\contentsline {subsubsection}{Contexte Culturel --- Ghealdan}{103}{subsubsection*.179}%
+\contentsline {subsubsection}{Traits de Roleplay}{103}{subsubsection*.180}%
+\contentsline {subsubsection}{Habitudes et Manies}{103}{subsubsection*.181}%
+\contentsline {subsubsection}{Traits (2 points)}{103}{subsubsection*.182}%
+\contentsline {subsubsection}{Destinée}{104}{subsubsection*.183}%
+\contentsline {subsubsection}{Vie d'autrefois}{104}{subsubsection*.184}%
+\contentsline {subsubsection}{Compétences (25 points)}{104}{subsubsection*.185}%
+\contentsline {subsubsection}{Relations dans le Groupe}{104}{subsubsection*.186}%
+\contentsline {subsection}{\numberline {1.8.3}Fernando Almandre --- Canalisateur masculin}{104}{subsection.1.8.3}%
+\contentsline {subsubsection}{Histoire Personnelle}{105}{subsubsection*.187}%
+\contentsline {subsubsection}{Contexte Culturel --- Amadicia}{105}{subsubsection*.188}%
+\contentsline {subsubsection}{Traits de Roleplay}{105}{subsubsection*.189}%
+\contentsline {subsubsection}{Habitudes et Manies}{105}{subsubsection*.190}%
+\contentsline {subsubsection}{Traits (2 points)}{105}{subsubsection*.191}%
+\contentsline {subsubsection}{Destinée}{105}{subsubsection*.192}%
+\contentsline {subsubsection}{Vie d'autrefois}{105}{subsubsection*.193}%
+\contentsline {subsubsection}{Compétences (25 points)}{106}{subsubsection*.194}%
+\contentsline {subsubsection}{Relations dans le Groupe}{106}{subsubsection*.195}%
+\contentsline {subsection}{\numberline {1.8.4}Alise Brennan --- Femme du Kin}{106}{subsection.1.8.4}%
+\contentsline {subsubsection}{Histoire Personnelle}{106}{subsubsection*.196}%
+\contentsline {subsubsection}{Contexte Culturel --- Le Kin}{107}{subsubsection*.197}%
+\contentsline {subsubsection}{Traits de Roleplay}{107}{subsubsection*.198}%
+\contentsline {subsubsection}{Habitudes et Manies}{107}{subsubsection*.199}%
+\contentsline {subsubsection}{Traits (2 points)}{107}{subsubsection*.200}%
+\contentsline {subsubsection}{Destinée}{107}{subsubsection*.201}%
+\contentsline {subsubsection}{Vie d'autrefois}{107}{subsubsection*.202}%
+\contentsline {subsubsection}{Compétences (25 points)}{107}{subsubsection*.203}%
+\contentsline {subsubsection}{Relations dans le Groupe}{108}{subsubsection*.204}%
+\contentsline {subsection}{\numberline {1.8.5}Theron Chuliandred --- Trouvère noble}{108}{subsection.1.8.5}%
+\contentsline {subsubsection}{Histoire Personnelle}{108}{subsubsection*.205}%
+\contentsline {subsubsection}{Contexte Culturel --- Cairhien}{108}{subsubsection*.206}%
+\contentsline {subsubsection}{Traits de Roleplay}{108}{subsubsection*.207}%
+\contentsline {subsubsection}{Habitudes et Manies}{109}{subsubsection*.208}%
+\contentsline {subsubsection}{Traits (2 points)}{109}{subsubsection*.209}%
+\contentsline {subsubsection}{Destinée}{109}{subsubsection*.210}%
+\contentsline {subsubsection}{Vie d'autrefois}{109}{subsubsection*.211}%
+\contentsline {subsubsection}{Compétences (25 points)}{109}{subsubsection*.212}%
+\contentsline {subsubsection}{Relations dans le Groupe}{109}{subsubsection*.213}%
+\contentsline {subsection}{\numberline {1.8.6}Bethamin Kettara --- \textit {Der'sul'dam}}{110}{subsection.1.8.6}%
+\contentsline {subsubsection}{Histoire Personnelle}{110}{subsubsection*.214}%
+\contentsline {subsubsection}{Contexte Culturel --- Empire Seanchan}{110}{subsubsection*.215}%
+\contentsline {subsubsection}{Traits de Roleplay}{110}{subsubsection*.216}%
+\contentsline {subsubsection}{Habitudes et Manies}{110}{subsubsection*.217}%
+\contentsline {subsubsection}{Traits (2 points)}{110}{subsubsection*.218}%
+\contentsline {subsubsection}{Destinée}{111}{subsubsection*.219}%
+\contentsline {subsubsection}{Vie d'autrefois}{111}{subsubsection*.220}%
+\contentsline {subsubsection}{Compétences (25 points)}{111}{subsubsection*.221}%
+\contentsline {subsubsection}{Relations dans le Groupe}{111}{subsubsection*.222}%
+\contentsline {subsection}{\numberline {1.8.7}Tamira Kodara --- Chasseuse du Shienar}{111}{subsection.1.8.7}%
+\contentsline {subsubsection}{Histoire Personnelle}{112}{subsubsection*.223}%
+\contentsline {subsubsection}{Contexte Culturel --- Shienar}{112}{subsubsection*.224}%
+\contentsline {subsubsection}{Traits de Roleplay}{112}{subsubsection*.225}%
+\contentsline {subsubsection}{Habitudes et Manies}{112}{subsubsection*.226}%
+\contentsline {subsubsection}{Traits (2 points)}{112}{subsubsection*.227}%
+\contentsline {subsubsection}{Destinée}{112}{subsubsection*.228}%
+\contentsline {subsubsection}{Vie d'autrefois}{112}{subsubsection*.229}%
+\contentsline {subsubsection}{Compétences (25 points)}{113}{subsubsection*.230}%
+\contentsline {subsubsection}{Relations dans le Groupe}{113}{subsubsection*.231}%
+\contentsline {subsection}{\numberline {1.8.8}Dynamique de Groupe}{113}{subsection.1.8.8}%
+\contentsline {subsubsection}{Formation et Leadership}{113}{subsubsection*.232}%
+\contentsline {subsubsection}{Objectifs Communs}{113}{subsubsection*.233}%
+\contentsline {subsubsection}{Défis du Groupe}{114}{subsubsection*.234}%
+\contentsline {subsubsection}{Habitudes de Voyage}{114}{subsubsection*.235}%
+\contentsline {subsubsection}{Hooks Narratifs pour le MJ}{114}{subsubsection*.236}%
+\contentsline {chapter}{\numberline {2}Tables de Référence}{115}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Organisation des Tables de Référence}{115}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Tables Système de Base}{116}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Seuils de Difficulté Standard}{116}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Modificateurs Situationnels de Base}{116}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Tables du Pouvoir Unique}{116}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Difficultés de Canalisation par Niveau de Pouvoir}{116}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Modificateurs de Canalisation}{117}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Table des Échecs Catastrophiques en Canalisation}{117}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Tables de Combat Spécialisé}{118}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Techniques d'Épée et Modificateurs}{118}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Modificateurs de Combat selon l'Équipement}{118}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Tables d'Environnement et Voyage}{119}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Conditions Météorologiques et Effets}{119}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Vitesses de Déplacement par Terrain}{119}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}Tables Sociales et Culturelles}{120}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Réactions selon l'Origine Régionale}{120}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Modificateurs selon la Classe Sociale}{120}{subsection.2.6.2}%
+\contentsline {section}{\numberline {2.7}Tables des Créatures et Antagonistes}{120}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Caractéristiques Moyennes des Créatures Communes}{120}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}Niveaux de Résistance aux Effets du Pouvoir}{121}{subsection.2.7.2}%
+\contentsline {section}{\numberline {2.8}Tables d'Événements Aléatoires}{121}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Rencontres Routières Typiques ($1\mathrm {d}20$)}{121}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}Complications de Voyage ($1\mathrm {d}12$)}{122}{subsection.2.8.2}%
+\contentsline {section}{\numberline {2.9}Index de Référence Rapide}{122}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Règles Critiques Fréquentes}{122}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}Seuils Critiques à Retenir}{122}{subsection.2.9.2}%

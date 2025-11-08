@@ -1,16 +1,5 @@
-# SOMMAIRE - LA ROUE DU TEMPS
-## Table des Matières du Document Final
-
----
-
-### PRÉFACE : LA ROUE TOURNE
-Introduction à l'univers et présentation de l'adaptation Engrenages. Établit le ton et les attentes pour l'expérience de jeu.
-
-**Informations de création :**
-- **Rédacteur :** Assistant IA avec expertise littéraire
-- **Sources :** CLAUDE.md, Textes (La roue du temps).md
-- **Style :** Narratif immersif, citations canoniques, ton respectueux de l'œuvre originale
-- **Contraintes :** Respecter la terminologie officielle française, pas d'exposition technique
+# SOMMAIRE - LA ROUE DU TEMPS : ENGRENAGES
+## Guide de Jeu pour l'Univers de Robert Jordan
 
 ---
 
@@ -120,71 +109,9 @@ Tel'aran'rhiod, Mondes Miroirs, Porte-Pierres : règles de navigation, dangers, 
 
 ---
 
-## CINQUIÈME PARTIE : JEU SOLO
+## CINQUIÈME PARTIE : ANNEXES
 
-### Chapitre 11 : Système Oracle et Jeu Solo
-Adaptation du moteur solo pour campagnes personnelles, tables aléatoires, gestion de l'inattendu dans l'univers WoT.
-
-**Informations de création :**
-- **Rédacteur :** Assistant IA avec expertise en systèmes procéduraux
-- **Sources :** moteur-solo.md, oracles.md
-- **Style :** Technique opérationnel, tableaux d6, guides d'interprétation
-- **Contraintes :** Cohérence avec l'univers, équilibre prévisibilité/surprise
-
----
-
-## SIXIÈME PARTIE : CAMPAGNES ET SCÉNARIOS
-
-### Chapitre 12 : Générateur d'Aventures
-Système de création procédurale d'aventures dans l'univers WoT : tables d'événements, personnages, intrigues et complications.
-
-**Informations de création :**
-- **Rédacteur :** Assistant IA avec expertise en systèmes génératifs
-- **Sources :** oracles.md, sources/WoT d20/EXTRACTION_FINALE_WOT_D20.md
-- **Style :** Technique opérationnel, tables aléatoires modulaires, guides d'assemblage
-- **Contraintes :** Variété narrative, respect du canon, réutilisabilité
-
-### Chapitre 13 : Les Échos de Shadar Logoth
-Premier scénario complet pour personnages débutants explorant la corruption et les choix moraux dans l'univers de La Roue du Temps.
-
-**Informations de création :**
-- **Rédacteur :** Assistant IA avec expertise scénaristique et narrative
-- **Sources :** CLAUDE.md règles de rédaction, Engrenages-regles.txt, WoT d20 pour références
-- **Style :** Format scénario professionnel détaillé, 30 000+ caractères, descriptions immersives
-- **Contraintes :** Système Engrenages strict, 3 méthodes par indice, monologues MJ par acte
-
-### Chapitre 14 : Les Fils du Pouvoir
-Scénario intermédiaire centré sur les intrigues politiques cairhienaiss et l'infiltration des Amis des Ténèbres dans l'aristocratie.
-
-**Informations de création :**
-- **Rédacteur :** Assistant IA avec expertise en intrigues politiques
-- **Sources :** Extractions romans pour PNJs canoniques, système oracle solo
-- **Style :** Descriptions de cours, Daes Dae'mar, diplomatie complexe
-- **Contraintes :** PNJs avec statistiques complètes, tests Engrenages corrects
-
-### Chapitre 15 : Les Murmures du Destin
-Scénario avancé explorant les phénomènes Ta'veren et les responsabilités cosmiques des héros exceptionnels.
-
-**Informations de création :**
-- **Rédacteur :** Assistant IA avec expertise en concepts métaphysiques
-- **Sources :** WoT d20 pour artefacts de l'Âge des Légendes, système oracle
-- **Style :** Philosophique et mystique, événements en cascade, phénomènes surnaturels
-- **Contraintes :** Équilibre libre arbitre/destin, implications cosmiques
-
-### Chapitre 16 : Le Chemin de la Rédemption (Scénario Solo)
-Aventure solo intégrée au système oracle pour Fael Barsere, explorant la rédemption et la médecine mystérieuse.
-
-**Informations de création :**
-- **Rédacteur :** Assistant IA avec expertise en systèmes solo
-- **Sources :** chapitre11_systeme_oracle_solo.md, Engrenages-regles.txt
-- **Style :** Système 4d6 intégré, tables spécialisées, rejouabilité
-- **Contraintes :** Cohérence totale avec système oracle, personnalisation de Fael
-
----
-
-## SEPTIÈME PARTIE : ANNEXES
-
-### Chapitre 17 : Glossaire et Références
+### Chapitre 11 : Glossaire et Références
 Dictionnaire des termes de l'Ancienne Langue, chronologie des Âges, fiches des figures légendaires.
 
 **Informations de création :**
@@ -193,7 +120,7 @@ Dictionnaire des termes de l'Ancienne Langue, chronologie des Âges, fiches des 
 - **Style :** Format dictionnaire, entrées alphabétiques, références croisées
 - **Contraintes :** Italiques obligatoires pour termes spéciaux, cohérence terminologique
 
-### Chapitre 18 : Personnages Prêts à Jouer
+### Chapitre 12 : Personnages Prêts à Jouer
 Collection de six personnages complets avec historiques détaillés, relations de groupe et hooks narratifs. Groupe cohérent d'aventuriers aux origines diverses, prêt pour une campagne immédiate.
 
 **Informations de création :**
@@ -202,7 +129,7 @@ Collection de six personnages complets avec historiques détaillés, relations d
 - **Style :** Fiches de personnage complètes, background narratif, relations interpersonnelles
 - **Contraintes :** Diversité culturelle WoT, équilibre du groupe, révélation progressive
 
-### Chapitre 19 : Tables de Référence
+### Chapitre 13 : Tables de Référence
 Compilation des tableaux essentiels : modificateurs, seuils de difficulté, tables aléatoires, aide-mémoire.
 
 **Informations de création :**
@@ -211,6 +138,15 @@ Compilation des tableaux essentiels : modificateurs, seuils de difficulté, tabl
 - **Style :** Format référence rapide, organisation logique, index détaillé
 - **Contraintes :** Cohérence avec tous les chapitres, facilité de consultation
 
+---
+
+## PROJETS COMPLÉMENTAIRES
+
+Ce guide de jeu fait partie d'une trilogie de documents pour jouer dans l'univers de La Roue du Temps :
+
+- **La Roue du Temps : Engrenages** *(ce document)* - Guide de jeu complet avec règles et univers
+- **La Roue du Temps : Solo** - Système de jeu en solitaire avec oracles et scénario solo
+- **La Roue du Temps : Scénarios** - Générateur d'aventures et campagnes prêtes à jouer
 
 ---
 
@@ -219,3 +155,8 @@ Compilation des tableaux essentiels : modificateurs, seuils de difficulté, tabl
 **Structure narrative :** Chaque chapitre commence par une nouvelle d'introduction située dans le répertoire `nouvelles/`. Ces nouvelles doivent illustrer les concepts abordés dans le chapitre tout en respectant les règles de rédaction du CLAUDE.md (révélation progressive, terminologie correcte, tirets cadratins pour les dialogues).
 
 **Style et cohérence :** Chaque section doit respecter les principes du CLAUDE.md : terminologie française officielle, italiques pour les termes spéciaux, style technique pour les règles, révélation progressive pour les éléments narratifs. L'ensemble doit former un guide complet et cohérent pour jouer dans l'univers de La Roue du Temps avec le système Engrenages.
+
+---
+
+**Version :** 2.0 - Structure simplifiée (moteur solo et scénarios externalisés)
+**Dernière mise à jour :** 2025-11-08
