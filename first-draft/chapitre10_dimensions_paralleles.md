@@ -1,0 +1,97 @@
+# Chapitre 9 : Dimensions Parallèles
+
+*"Il existe des mondes au-delà des mondes, des rêves au-delà des rêves. Tel'aran'rhiod n'est que l'antichambre de mystères plus profonds encore."*
+-- Verin Mathwin
+
+## Les Couches de la Réalité
+
+La réalité possède plusieurs strates, chacune régie par ses propres lois. Tel'aran'rhiod, le Monde des Rêves, constitue le plan le plus accessible aux mortels. Au-delà s'étendent les Mondes Miroirs, reflets déformés de la réalité principale. Ces dimensions offrent des opportunités narratives exceptionnelles tout en présentant des dangers mortels.
+
+Naviguer entre ces plans exige plus que des *ter'angreal* appropriés. Les voyageurs doivent comprendre les règles fondamentales qui gouvernent chaque dimension. Une erreur de jugement peut piéger l'imprudent dans un labyrinthe de réalités alternatives.
+
+### Tel'aran'rhiod : Le Monde des Rêves
+
+Cette dimension reflète l'inconscient collectif de l'humanité. Les lieux familiers y prennent des formes oniriques, mélange de souvenirs et d'archétypes. Les bâtiments changent selon les perceptions des visiteurs. Une même ville peut apparaître sous plusieurs aspects simultanés.
+
+**Règles d'Accès :**
+L'entrée naturelle s'effectue durant le sommeil. Certains individus, les Rêveurs, développent une aptitude innée pour cette navigation. Les *ter'angreal* spécialisés permettent un accès contrôlé même éveillé. Cette méthode artificielle présente moins de risques que le voyage naturel.
+
+**Lois Physiques Modifiées :**
+La volonté façonne la réalité dans Tel'aran'rhiod. Les objets obéissent aux attentes plutôt qu'aux lois naturelles. Un Rêveur expérimenté peut voler, se téléporter, modifier son apparence. Ces capacités exigent une concentration intense et une confiance absolue.
+
+Les émotions influencent directement l'environnement. La peur matérialise des cauchemars. La colère enflamme le décor. Cette réactivité émotionnelle constitue l'un des principaux dangers pour les novices. Leurs angoisses prennent vie et les poursuivent.
+
+**Navigation et Déplacement :**
+Le voyage s'effectue par bonds mentaux entre lieux connus. Le Rêveur visualise sa destination et s'y projette instantanément. Cette méthode ne fonctionne qu'avec des endroits déjà visités ou intensément imaginés. Les cartes mentales imprécises génèrent des erreurs de navigation dangereuses.
+
+*Règle Engrenages :* Test de Mental + Rêve (Difficulté variable selon la distance et la familiarité). Échec critique : le personnage se retrouve dans un lieu hostile de Tel'aran'rhiod.
+
+**Dangers Spécifiques :**
+Les Fléaux du Rêve chassent les intrusions non autorisées. Ces entités protectrices attaquent quiconque perturbe l'équilibre dimensionnel. Leur forme varie selon les craintes de leur cible. Elles exploitent les faiblesses psychologiques avec une précision chirurgicale.
+
+La mort dans Tel'aran'rhiod entraîne la mort physique. Cette règle absolue dissuade l'exploration imprudente. Les blessures subies se répercutent sur le corps endormi. Seuls les maîtres les plus accomplis peuvent dissocier totalement leur esprit de leur enveloppe charnelle.
+
+### Les Mondes Miroirs
+
+Ces dimensions parallèles reflètent les variations possibles de la réalité principale. Chaque choix historique majeur génère une branche alternative. Ces mondes évoluent selon leurs propres logiques, développant des cultures et des technologies divergentes.
+
+**Types de Miroirs :**
+
+**Les Échos Proches** diffèrent subtilment de la réalité d'origine. Un roi régne au lieu d'une reine. Une ville prospère là où devrait s'étendre un désert. Ces variations mineures créent un sentiment d'étrangeté familière. Les voyageurs expérimentent le vertige de l'alternatif.
+
+**Les Divergences Majeures** présentent des différences fondamentales. Le Flétrissement du Monde n'a jamais eu lieu. Les Ténèbres ont triomphé complètement. L'Âge des Légendes continue dans une stagnation millénaire. Ces mondes explorent les conséquences de choix cosmiques différents.
+
+**Les Mondes Brisés** portent les cicatrices de catastrophes locales. L'usage excessif du *balefire* a fracturé la réalité. Les lois physiques fluctuent selon les zones. Ces dimensions instables menacent de contaminer les mondes adjacents.
+
+**Accès par Porte-Pierres :**
+Ces artefacts de l'Âge des Légendes ouvrent des passages contrôlés. Chaque pierre possède une destination fixe dans un monde spécifique. L'activation exige une compréhension des symboles gravés et une canalisation précise du Pouvoir.
+
+*Règle Engrenages :* Test de Mental + Savoir Ancien (Difficulté 15). Succès : passage réussi. Échec : destination aléatoire dans les Mondes Miroirs. Échec critique : projection dans un monde hostile.
+
+**Navigation Interdimensionnelle :**
+Le voyage entre Mondes Miroirs suit des courants dimensionnels invisibles. Ces flux énergétiques connectent les réalités similaires tout en isolant les incompatibles. Un navigateur expérimenté peut sentir ces courants et les suivre vers sa destination.
+
+Les tempêtes dimensionnelles perturbent périodiquement ces flux. Durant ces événements chaotiques, les passages deviennent imprévisibles. Les voyageurs peuvent émerger dans des mondes très éloignés de leur objectif initial.
+
+### Règles de Survie Interdimensionnelle
+
+**Cohérence Personnelle :**
+Chaque voyageur doit maintenir un sens stable de son identité. L'exposition prolongée aux réalités alternatives érode cette certitude. Les individus fragiles développent une confusion identitaire permanente. Ils intègrent des éléments de leurs doubles dans d'autres mondes.
+
+*Règle Engrenages :* Test de Mental + Volonté après chaque séjour prolongé (plus d'une semaine). Échec : gain d'un trait de personnalité du double local. Échec critique : confusion d'identité temporaire.
+
+**Paradoxes Temporels :**
+Rencontrer sa propre version alternative génère des tensions dimensionnelles. Ces interactions peuvent déstabiliser les deux réalités impliquées. La plupart des voyageurs évitent soigneusement de telles confrontations.
+
+Les objets transportés entre dimensions conservent leurs propriétés d'origine. Cette stabilité permet l'importation de technologies ou de savoirs perdus. Cependant, certains artefacts puissants rejettent activement le déplacement interdimensionnel.
+
+**Contamination Dimensionnelle :**
+L'exposition répétée aux Mondes Miroirs laisse des traces. Les voyageurs développent une sensibilité aux variations de réalité. Cette aptitude leur permet de détecter les anomalies dimensionnelles mais les rend plus vulnérables aux influences externes.
+
+### Applications Pratiques pour les Aventures
+
+**Exploration de Possibilités :**
+Les Mondes Miroirs permettent d'explorer les conséquences d'événements alternatifs. Que se serait-il passé si Lews Therin avait échoué ? Cette perspective enrichit la compréhension de l'histoire tout en générant des intrigues fascinantes.
+
+**Récupération de Savoirs Perdus :**
+Certains mondes ont préservé des connaissances disparues ailleurs. Les bibliothèques de l'Âge des Légendes peuvent survivre dans des dimensions où la catastrophe a été évitée. Ces expéditions de récupération motivent des aventures périlleuses.
+
+**Confrontation avec les Ténèbres :**
+Les serviteurs du Ténébreux exploitent aussi les Mondes Miroirs. Ils recrutent des alliés dans les dimensions où ils ont triomphé. Leurs complots s'étendent à travers multiples réalités, exigeant une vigilance interdimensionnelle.
+
+### Précautions pour le Maître de Jeu
+
+L'usage des dimensions parallèles peut rapidement compliquer une campagne. Chaque monde introduit nécessite une cohérence interne solide. Les joueurs doivent comprendre les différences sans se perdre dans la complexité.
+
+Les paradoxes temporels et les incohérences narratives menacent constamment la logique du récit. Le MJ doit établir des règles claires et s'y tenir. L'arbitraire détruit l'immersion que ces concepts peuvent créer.
+
+Les voyages interdimensionnels ne doivent jamais devenir une solution facile aux problèmes de l'intrigue. Ils génèrent autant de complications qu'ils en résolvent. Cette limitation maintient la tension narrative et évite les échappatoires narratives.
+
+### Gérer les Conséquences
+
+Chaque voyage laisse des traces dans les dimensions visitées. Les actions des personnages influencent l'évolution de ces mondes. Ces répercussions peuvent revenir hanter les héros lors de visites ultérieures.
+
+Les alliés rencontrés dans d'autres dimensions développent leurs propres agendas. Ils peuvent solliciter l'aide des personnages pour leurs propres crises. Ces obligations interdimensionnelles tissent un réseau de loyautés complexes.
+
+*"Les Mondes Miroirs nous montrent ce que nous pourrions être, en bien comme en mal. Cette connaissance est à la fois don et fardeau."*
+-- Egwene al'Vere
